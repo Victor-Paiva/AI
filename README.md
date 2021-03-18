@@ -1,2 +1,2 @@
-# AI-mini-projects
-Mini-projetos de inteligência artificial
+# AI
+Algoritmos de inteligência artificial.
