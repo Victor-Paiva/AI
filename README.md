@@ -1,2 +1,2 @@
 # AI
-Algoritmos de inteligência artificial.
+Artificial Intelligence algorithms
